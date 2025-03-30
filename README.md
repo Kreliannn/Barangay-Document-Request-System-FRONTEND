@@ -44,3 +44,14 @@ If you want access to the **full source code**, please message me on TikTok.
 ## 📸 Barangay Section Preview  
 
 
+![Image](https://github.com/user-attachments/assets/2c5452fe-022d-4a1e-ba1e-0e266694a7b0)
+
+![Image](https://github.com/user-attachments/assets/59f0142b-17d2-4ac0-8f04-79e5611fd5b9)
+
+![Image](https://github.com/user-attachments/assets/8ef630dd-f745-47a6-a432-1f1838c4e1f1)
+
+![Image](https://github.com/user-attachments/assets/9e07c8c8-68cb-4ff2-8043-f775083bfefd)
+
+![Image](https://github.com/user-attachments/assets/c29382ef-6149-42b8-970c-f559dee6237f)
+
+
