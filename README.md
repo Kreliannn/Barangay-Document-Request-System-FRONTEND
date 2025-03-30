@@ -1,6 +1,6 @@
 # 🏡 Barangay Document Request System  
 
-A digital system that allows residents to request barangay documents online, eliminating the need for in-person visits. It features **email notifications** to inform residents when their documents are ready for pickup.  
+A web-based system that allows residents to request barangay documents online without visiting the barangay hall. Residents can track their request status, receive email notifications, and view request history. The barangay admin can manage requests, update statuses, and track transaction history.
 
 ## ⚠️ <span style="color:red">Warning</span>  
 
