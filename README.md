@@ -24,6 +24,23 @@ If you want access to the **full source code**, please message me on TikTok.
 - Track all **transaction history** and payments  
 - Monitor **cash flow** related to document requests  
 
-## 📸 Preview  
+## 📸 Resident Section Preview  
+![Image](https://github.com/user-attachments/assets/63ba0b88-4bd4-40a8-b572-16d44f3f8631)
+
+![Image](https://github.com/user-attachments/assets/8fc46c66-268b-42f0-98bb-0b7d6304b206)
+
+![Image](https://github.com/user-attachments/assets/fe99cd13-ea76-462d-9342-3d0a68e34e89)
+
+![Image](https://github.com/user-attachments/assets/fcde8b58-83e1-41b2-84c2-211435dcecfa)
+
+![Image](https://github.com/user-attachments/assets/4f4cff97-802f-4c89-abe6-777a7f020844)
+
+![Image](https://github.com/user-attachments/assets/995ff77b-2374-45c8-944b-7c3125caf91f)
+
+![Image](https://github.com/user-attachments/assets/6d1445a9-0d10-4fa6-9f3b-afd62a13bc1c)
+
+<br>
+
+## 📸 Barangay Section Preview  
 
 
