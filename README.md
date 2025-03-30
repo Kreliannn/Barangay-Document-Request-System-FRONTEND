@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏡 Barangay Document Request System  
 
-## Getting Started
+A digital system that allows residents to request barangay documents online, eliminating the need for in-person visits. It features **email notifications** to inform residents when their documents are ready for pickup.  
 
-First, run the development server:
+## ⚠️ <span style="color:red">Warning</span>  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🚨 <span style="color:red">**This repository is private and contains only the frontend code.**</span>  
+If you want access to the **full source code**, please message me on TikTok.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔗 [Contact me on TikTok](https://www.tiktok.com/@krelq) 
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ✨ Features  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 👥 **For Residents**  
+- Request barangay documents (Clearance, Indigency, Business Permit, Endorsement Letter, etc.)  
+- Track request status (**Pending, Rejected, In Process, Ready for Pickup**)  
+- View **request history**  
+- Receive **email notifications** about request updates  
+- Get **system notifications** for important updates  
 
-## Learn More
+### 🏛️ **For Barangay Admin**  
+- View and manage document requests  
+- Approve, reject, or update request status  
+- Track all **transaction history** and payments  
+- Monitor **cash flow** related to document requests  
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Preview  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
